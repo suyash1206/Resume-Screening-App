@@ -1,0 +1,19 @@
+Job Title: Data Scientist
+
+We are seeking a Data Scientist to join our analytics team.
+
+Required Skills:
+- Strong proficiency in Python and SQL
+- Experience with Machine Learning and statistical modeling
+- Hands-on experience with Pandas and data analysis
+- Excellent communication and problem solving skills
+
+Preferred Skills:
+- Experience with AWS or other cloud platforms
+- Familiarity with Tableau or Power BI for data visualization
+- Exposure to Deep Learning frameworks like TensorFlow
+
+Responsibilities:
+- Build predictive models to support business decisions
+- Analyze large datasets and present insights to stakeholders
+- Collaborate with cross-functional teams on data-driven projects
